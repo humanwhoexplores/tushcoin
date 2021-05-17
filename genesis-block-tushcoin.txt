@@ -1,0 +1,35 @@
+
+Genesis Block Input Parameters
+			
+Timestamp Message   : I am creating a new coin tushcoin on 15 May 2021
+Timestamp           : 1621091280 
+Block Rewards       : 100
+PUB Secretkey       : 092084710fa689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9
+    
+    
+    
+------------------------------Main Net--------------------------------------------------------
+  
+Time Stamp	    : 1621091280
+Bits			: 0x1e0ffff0
+Nonce			: 2000794072
+Merkle  Hash	: 0xc7b707b8272f1a4fd205c6b206c1471b3c4f5c1a95f2175450a4c8039b7613b5
+Genesis Hash	: 0xde12ef023da0dff82b2aafa4ff29930a9b15dd6ec77e30fcbb068eed7fac7e91 
+  
+     
+------------------------------Test Net--------------------------------------------------------
+     
+Time Stamp	   : 1621091280
+Bits			: 0x1e0ffff0
+Nonce			: 2103300
+Merkle  Hash	: 0xc7b707b8272f1a4fd205c6b206c1471b3c4f5c1a95f2175450a4c8039b7613b5
+Genesis Hash	: 0x5605589f83b95c99010d4b3dae99529939147a65f081031cb1c162badbb52f05 
+     
+     
+------------------------------Regression Test Net--------------------------------------------------------
+     
+Time Stamp	   : 1621091280
+Bits			: 0x207fffff
+Nonce			: 0
+Merkle  Hash	: 0xc7b707b8272f1a4fd205c6b206c1471b3c4f5c1a95f2175450a4c8039b7613b5
+Genesis Hash	: 0x482934c78dab7a97d380b65ef641b07cabb6c71ff4227e7692e6ac33cfaddf25 
